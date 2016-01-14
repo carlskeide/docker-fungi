@@ -1,4 +1,4 @@
-FROM haskell:7.30
+FROM haskell:7.10
 
 MAINTAINER Carl Skeide "carl@skeide.se"
 
