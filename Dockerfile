@@ -4,6 +4,6 @@ MAINTAINER Carl Skeide "carl@skeide.se"
 
 RUN cabal update
 
-RUN cabal install Fungi
+#RUN cabal install Fungi
 
-ENTRYPOINT ["/root/.cabal/bin/fungi"]
+#ENTRYPOINT ["/root/.cabal/bin/fungi"]
